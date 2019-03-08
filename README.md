@@ -43,7 +43,7 @@ Instacart shopping data can be analyzed to determine key shopper characteristics
 
 <!-- Visualizations -->
 ## Visualizations
-
+![method](https://user-images.githubusercontent.com/39780478/54022968-97199e00-4148-11e9-8035-aae7ca393825.JPG)
 The “prior” orders were connected to orders dataset. Products id in “prior” table was connected to products database, and products database were described using aisles. To reduce the count of categories in analysis I decided to select non-food products. 
 
 ### Installation
