@@ -59,22 +59,22 @@ This chart sorted by Average Cart Order. It can be seen that first what people o
 ![histograms](https://user-images.githubusercontent.com/39780478/54023753-9550da00-414a-11e9-9e8f-e244c4ce99b0.JPG)
 This histogram shows the day from prior order histograms by Aisles. It can be seen that baby accessories buying with 7 day frequency mainly. Products with 1-2 week cycle are cleaning products, body lotions, oral hygiene, soap, air fresher products, long life products cleaning products, oral hygiene, deodorants, famine care etc. have big frequency abjection in the end of histograms because they are long life products which do not require frequent re-ordering. 
 
-## Methods Used R
+## Code: Exploratory Data Analysis in R
 
-Code: Exploratory Data Analysis in R
 
-# 3.4 million grocery orders from more than 200,000 Instacart users
-# each user provides between 4 and 100 of their orders, sequence of products purchased are in each order
-# data also provides the week and hour of day the order was placed, and a relative measure of time between orders.
+
+3.4 million grocery orders from more than 200,000 Instacart users
+each user provides between 4 and 100 of their orders, sequence of products purchased are in each order
+data also provides the week and hour of day the order was placed, and a relative measure of time between orders.
  
-# identify basic EDA and identify the ideal consumer based off behavior
-# import data
-# orders.csv : all grocery orders
-# products.csv : all products
-# order_products_train.csv - order_products_prior.csv: specify which products were purchased in each order.
-# order_products_prior.csv contains previous order contents for all customers. reordered' indicates that the customer has a previous order that contains the product. some orders will have no reordered items.
-# aisles.csv : different aisles
-# departments.csv : different product departments
+identify basic EDA and identify the ideal consumer based off behavior
+import data
+orders.csv : all grocery orders
+products.csv : all products
+order_products_train.csv - order_products_prior.csv: specify which products were purchased in each order.
+order_products_prior.csv contains previous order contents for all customers. reordered' indicates that the customer has a previous order that contains the product. some orders will have no reordered items.
+aisles.csv : different aisles
+departments.csv : different product departments
  
 install.packages("data.table")
 install.packages("dplyr")
@@ -90,10 +90,10 @@ library(knitr)
 library(stringr)
 library(DT)
  
-# when are orders placed?
-# orders %>%
+when are orders placed?
+orders %>%
   + ggplot(aes(x = order_hour_of_day)) + geom_histogram(stat = "count", fill = "blue")
-# Most orders are between 8.00-18.00
+Most orders are between 8.00-18.00
 
 ## Visualizations Tableau
 
