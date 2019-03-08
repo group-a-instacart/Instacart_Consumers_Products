@@ -51,16 +51,13 @@
 ## Problem Statement: 
 In the effort to explore, define, and understand the favorable grocery consumer, the research project question asks: what behavioral independent variables (day an order is placed, time of day an order is placed, and what items are ordered) best predict grocery consumer?
 
-![instacart_what_is](https://user-images.githubusercontent.com/39780478/54021646-7ac83200-4145-11e9-87f3-853a522115d0.JPG)
+### Abstract:
+Instacart shopping data can be analyzed to determine key shopper characteristics and related traits pertaining to food and non-food product consumer shopping traits and order histories. An exploratory data analysis confirms most Instacart orders occur between 0800 and 1600 (8 AM and 6 PM, respectively). Product reorders occurred on average at or around 8 days after the original order was placed. The analysis was extended to review non-food items. The analysis explores order characteristics and shopping patterns that may potentially identify ideal Instacart shopping consumer behaviors.
 
-Problem Statement:   In the effort to explore, define, and understand the favorable grocery consumer, the research project question asks: what behavioral independent variables (day an order is placed, time of day an order is placed, and what items are ordered) best predict grocery consumer? 
-
-### Built With
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
+### Built With:
+* [R](https://www.r-project.org/)
+* [Tableau](https://www.tableau.com/)
+* [Excel](https://products.office.com/en-us/excel)
 
 
 <!-- GETTING STARTED -->
