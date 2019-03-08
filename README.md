@@ -51,7 +51,9 @@ The “prior” orders were connected to orders dataset. Products id in “prior
 
 ![products](https://user-images.githubusercontent.com/39780478/54023231-46ef0b80-4149-11e9-9c7a-32777deb0b96.JPG)
 
-This chart shows that cleaning products including cleaning products for home and body are the main categories of a non-food line. The second big category which can be found in list is body care with products for specific needs of women and men. Third big category which can be composed from Aisle variable is child care. 
+This chart shows that cleaning products including cleaning products for home and body are the main categories of a non-food line. 
+The second big category which can be found in list is body care with products for specific needs of women and men. Third big category 
+which can be composed from Aisle variable is child care. 
 
 ![variety of products](https://user-images.githubusercontent.com/39780478/54023592-368b6080-414a-11e9-8765-93534341e0e3.JPG)
 
