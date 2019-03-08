@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![variety of products](https://user-images.githubusercontent.com/39780478/54021362-da720d80-4144-11e9-8e29-1f750e1e1feb.JPG)
+![instacart_what_is](https://user-images.githubusercontent.com/39780478/54021646-7ac83200-4145-11e9-87f3-853a522115d0.JPG)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
