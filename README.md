@@ -1,4 +1,4 @@
-# Instacart_Consumer_Habits
+# Using Big Data to Explore Online Shopping Patterns
 <!-- PROJECT SHIELDS -->
 [![Build Status][build-shield]]()
 [![Contributors][contributors-shield]]()
