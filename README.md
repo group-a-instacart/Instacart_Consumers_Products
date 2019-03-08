@@ -87,26 +87,12 @@ departments.csv : different product departments
 ## Visualizations R
 
 ![r1](https://user-images.githubusercontent.com/39780478/54025184-9e43aa80-414e-11e9-9f95-973e1d6fb37a.JPG)
-
-![r3](https://user-images.githubusercontent.com/39780478/54025644-021aa300-4150-11e9-9651-5a79e3f8c082.JPG)
 ![r4](https://user-images.githubusercontent.com/39780478/54025646-034bd000-4150-11e9-9e6a-80082f2e8e0e.JPG)
 ![r5](https://user-images.githubusercontent.com/39780478/54025651-047cfd00-4150-11e9-975b-5e7588118a81.JPG)
 
-
-
-
-
-
-
-### Installation
-
-
-
-<!-- USAGE EXAMPLES -->
 ## Data
 
 Stanley, J. (2017, May 2). The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions. https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b 
-
 
 
 <!-- CONTRIBUTING -->
@@ -143,6 +129,4 @@ Team A: Data Visualization
 [contributors-shield]: https://img.shields.io/badge/contributors-4-orange.svg?style=flat-square
 [license-shield]: https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square
 [license-url]: https://choosealicense.com/licenses/mit
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://raw.githubusercontent.com/othneildrew/Best-README-Template/master/screenshot.png
