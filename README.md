@@ -96,14 +96,9 @@ orders %>%
 Most orders are between 8.00-18.00
 
 ## Visualizations R
-During which day of the week?
-![r1](https://user-images.githubusercontent.com/39780478/54025184-9e43aa80-414e-11e9-9f95-973e1d6fb37a.JPG)
-orders %>%
-  ggplot(aes(x=order_dow)) +
-  geom_histogram(stat="count",fill="blue")
-Most orders are on days 0 and 1
 
-Which products are sold most often? (top purchased products)
+![r1](https://user-images.githubusercontent.com/39780478/54025184-9e43aa80-414e-11e9-9f95-973e1d6fb37a.JPG)
+
 
 ![r3](https://user-images.githubusercontent.com/39780478/54025191-a3a0f500-414e-11e9-93a2-db14ec13b5de.JPG)
 
