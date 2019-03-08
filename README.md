@@ -46,6 +46,11 @@ Instacart shopping data can be analyzed to determine key shopper characteristics
 ![method](https://user-images.githubusercontent.com/39780478/54022968-97199e00-4148-11e9-8035-aae7ca393825.JPG)
 The “prior” orders were connected to orders dataset. Products id in “prior” table was connected to products database, and products database were described using aisles. To reduce the count of categories in analysis I decided to select non-food products. 
 
+![products](https://user-images.githubusercontent.com/39780478/54023231-46ef0b80-4149-11e9-9c7a-32777deb0b96.JPG)
+This chart shows that cleaning products including cleaning products for home and body are the main categories of a non-food line. The second big category which can be found in list is body care with products for specific needs of women and men. Third big category which can be composed from Aisle variable is child care. 
+
+
+
 ### Installation
 
 
