@@ -7,10 +7,6 @@
 
 
 
-<!-- PROJECT LOGO -->
-What Is Instacart
-![instacart_what_is](https://user-images.githubusercontent.com/39780478/54022540-90d6f200-4147-11e9-922f-38c9225ad1ca.JPG)"
-  
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -68,11 +64,9 @@ This histogram shows the day from prior order histograms by Aisles. It can be se
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Data
 
-Use fgdfg to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Stanley, J. (2017, May 2). The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions. https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b 
 
 
 
