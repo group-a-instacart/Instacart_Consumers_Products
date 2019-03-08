@@ -18,7 +18,7 @@
 * [Problem Statement](#about-the-project)
   * [Abstract](#abstract)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
+* [Visualations](#visualizations)
   * [Installation](#installation)
 * [Usage](#usage)
 * [Contributing](#contributing)
@@ -41,24 +41,12 @@ Instacart shopping data can be analyzed to determine key shopper characteristics
 * [Excel](https://products.office.com/en-us/excel)
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+<!-- Visualizations -->
+## Visualizations
+
+The “prior” orders were connected to orders dataset. Products id in “prior” table was connected to products database, and products database were described using aisles. To reduce the count of categories in analysis I decided to select non-food products. 
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https:://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 
 
