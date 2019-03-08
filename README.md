@@ -8,16 +8,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="
+
 ![instacart_what_is](https://user-images.githubusercontent.com/39780478/54022540-90d6f200-4147-11e9-922f-38c9225ad1ca.JPG)">
-    <img src="logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center"></h3>
-
-  <p align="center">
+    
     An awesome README template to jumpstart your projects!
     <br />
     <a href="https://github.com/group-a-instacart/Instacart_Consumers_Products"><strong>Explore the docs »</strong></a>
