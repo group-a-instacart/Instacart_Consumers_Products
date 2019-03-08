@@ -53,9 +53,6 @@ which can be composed from Aisle variable is child care.
 
 ![variety of products](https://user-images.githubusercontent.com/39780478/54023592-368b6080-414a-11e9-8765-93534341e0e3.JPG)
 
-![boxplot](https://user-images.githubusercontent.com/39780478/54023429-caa8f800-4149-11e9-94b0-b89494987d2f.JPG)
-This chart sorted by Average Cart Order. It can be seen that first what people ordered in Cart is spirits but from other point of view the spirits are 3-rd (median) cart in order. This may means that people who buy spirits buy a limited list of goods. Same with facial care. This information could be used by service to place the categories in right list on screen of customers in relation to frequency of orders first of course. 
-
 ![histograms](https://user-images.githubusercontent.com/39780478/54023753-9550da00-414a-11e9-9e8f-e244c4ce99b0.JPG)
 This histogram shows the day from prior order histograms by Aisles. It can be seen that baby accessories buying with 7 day frequency mainly. Products with 1-2 week cycle are cleaning products, body lotions, oral hygiene, soap, air fresher products, long life products cleaning products, oral hygiene, deodorants, famine care etc. have big frequency abjection in the end of histograms because they are long life products which do not require frequent re-ordering. 
 
