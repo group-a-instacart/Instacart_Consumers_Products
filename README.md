@@ -84,6 +84,7 @@ order_products_prior.csv contains previous order contents for all customers. reo
 aisles.csv : different aisles
 departments.csv : different product departments
  
+<!-- Visualizations R -->
 ## Visualizations R
 
 ![r1](https://user-images.githubusercontent.com/39780478/54025184-9e43aa80-414e-11e9-9f95-973e1d6fb37a.JPG)
