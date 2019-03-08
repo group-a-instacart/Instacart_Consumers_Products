@@ -60,22 +60,6 @@ This chart sorted by Average Cart Order. It can be seen that first what people o
 This histogram shows the day from prior order histograms by Aisles. It can be seen that baby accessories buying with 7 day frequency mainly. Products with 1-2 week cycle are cleaning products, body lotions, oral hygiene, soap, air fresher products, long life products cleaning products, oral hygiene, deodorants, famine care etc. have big frequency abjection in the end of histograms because they are long life products which do not require frequent re-ordering. 
 
 ## Code: Exploratory Data Analysis in R
-
-
-
-3.4 million grocery orders from more than 200,000 Instacart users
-each user provides between 4 and 100 of their orders, sequence of products purchased are in each order
-data also provides the week and hour of day the order was placed, and a relative measure of time between orders.
- 
-identify basic EDA and identify the ideal consumer based off behavior
-import data
-orders.csv : all grocery orders
-products.csv : all products
-order_products_train.csv - order_products_prior.csv: specify which products were purchased in each order.
-order_products_prior.csv contains previous order contents for all customers. reordered' indicates that the customer has a previous order that contains the product. some orders will have no reordered items.
-aisles.csv : different aisles
-departments.csv : different product departments
- 
 install.packages("data.table")
 install.packages("dplyr")
 install.packages("ggplot2")
@@ -89,18 +73,29 @@ library(ggplot2)
 library(knitr)
 library(stringr)
 library(DT)
- 
-when are orders placed?
-orders %>%
-  + ggplot(aes(x = order_hour_of_day)) + geom_histogram(stat = "count", fill = "blue")
-Most orders are between 8.00-18.00
 
+3.4 million grocery orders from more than 200,000 Instacart users
+each user provides between 4 and 100 of their orders, sequence of products purchased are in each order
+data also provides the week and hour of day the order was placed, and a relative measure of time between orders.
+ 
+Identify basic EDA and identify the ideal consumer based off behavior
+import data
+orders.csv : all grocery orders
+products.csv : all products
+order_products_train.csv - order_products_prior.csv: specify which products were purchased in each order.
+order_products_prior.csv contains previous order contents for all customers. reordered' indicates that the customer has a previous order that contains the product. some orders will have no reordered items.
+aisles.csv : different aisles
+departments.csv : different product departments
+ 
 ## Visualizations R
 
 ![r1](https://user-images.githubusercontent.com/39780478/54025184-9e43aa80-414e-11e9-9f95-973e1d6fb37a.JPG)
 
+![r3](https://user-images.githubusercontent.com/39780478/54025644-021aa300-4150-11e9-9651-5a79e3f8c082.JPG)
+![r4](https://user-images.githubusercontent.com/39780478/54025646-034bd000-4150-11e9-9e6a-80082f2e8e0e.JPG)
+![r5](https://user-images.githubusercontent.com/39780478/54025651-047cfd00-4150-11e9-975b-5e7588118a81.JPG)
 
-![r3](https://user-images.githubusercontent.com/39780478/54025191-a3a0f500-414e-11e9-93a2-db14ec13b5de.JPG)
+
 
 
 
