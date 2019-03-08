@@ -117,7 +117,7 @@ Team A: Data Visualization
 * Harris, P., Riley, F. D., Riley, D., & Hand, C. (2017). Online and store patronage: A typology of grocery shoppers. International Journal of Retail & Distribution Management, 45(4), 419-445. doi:10.1108/ijrdm-06-2016-0103
 
 * Instacart. (2017, December 1). Instacart Help Center - What can we do for you? Retrieved from https://www.instacart.com/help/section/200758544
-* Instacart. (2017). [The Instacart Online Grocery Shopping Dataset 2017]. Published raw data.Accessed from https://www.instacart.com/datasets/grocery-shopping-2017Pan, S., Giannikas, V., Han, Y., Grover-Silva, E., & Qiao, B. (2017). Using customer-related data to enhance e-grocery home delivery. Industrial Management & Data Systems, 117(9), 1917-1933.doi:10.1108/imds-10-2016-0432
+* Instacart. (2017). [The Instacart Online Grocery Shopping Dataset 2017]. Published raw data.Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 Pan, S., Giannikas, V., Han, Y., Grover-Silva, E., & Qiao, B. (2017). Using customer-related data to enhance e-grocery home delivery. Industrial Management & Data Systems, 117(9), 1917-1933.doi:10.1108/imds-10-2016-0432
 
 * Stanley, J. (2016, February 17). Data Science at Instacart – tech-at-instacart. Retrieved from                                     https://tech.instacart.com/data-science-at-instacart-dabbd2d3f279
 
