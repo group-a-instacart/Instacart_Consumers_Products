@@ -14,7 +14,7 @@
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">https://github.com/group-a-instacart/Instacart_Consumers_Products/blob/master/Variety%20of%20Products.JPG</h3>
+  <h3 align="center"></h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
@@ -50,7 +50,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/group-a-instacart/Instacart_Consumers_Products/blob/master/Variety%20of%20Products.JPG)
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
