@@ -14,14 +14,14 @@
 * [Problem Statement](#about-the-project)
   * [Abstract](#abstract)
   * [Built With](#built-with)
-  * [Methods](#method)
-* [Visualations](#visualizations)
-  * [Installation](#installation)
-* [Usage](#usage)
+  * [Methods Tableau](#method)
+* [Visualations Tableau](#visualizations)
+* [Code: Exploratory Data Analysis in R](#code)
+* [Visualations R](#visualizations r)
+* [Data](#data)
 * [Contributing](#contributing)
 * [License](#license)
-* [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
+* [References](#references)
 
 
 
@@ -37,7 +37,7 @@ Instacart shopping data can be analyzed to determine key shopper characteristics
 * [Tableau](https://www.tableau.com/)
 * [Excel](https://products.office.com/en-us/excel)
 
-## Methods Used Tableau
+## Methods Tableau
 
 ![method](https://user-images.githubusercontent.com/39780478/54024051-6edf6e80-414b-11e9-9cfe-b1394eb9725a.JPG)
 The “prior” orders were connected to orders dataset. Products id in “prior” table was connected to products database, and products database were described using aisles. To reduce the count of categories in analysis I decided to select non-food products. 
