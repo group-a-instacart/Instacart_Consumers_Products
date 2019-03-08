@@ -42,7 +42,7 @@ Instacart shopping data can be analyzed to determine key shopper characteristics
 * [Excel](https://products.office.com/en-us/excel)
 
 ## Method
-![method](https://user-images.githubusercontent.com/39780478/54022968-97199e00-4148-11e9-8035-aae7ca393825.JPG)
+![method](https://user-images.githubusercontent.com/39780478/54024051-6edf6e80-414b-11e9-9cfe-b1394eb9725a.JPG)
 The “prior” orders were connected to orders dataset. Products id in “prior” table was connected to products database, and products database were described using aisles. To reduce the count of categories in analysis I decided to select non-food products. 
 
 <!-- Visualizations -->
