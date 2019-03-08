@@ -8,7 +8,7 @@
 
 
 <!-- PROJECT LOGO -->
-
+What Is Instacart
 ![instacart_what_is](https://user-images.githubusercontent.com/39780478/54022540-90d6f200-4147-11e9-922f-38c9225ad1ca.JPG)"
   
 
