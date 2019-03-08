@@ -20,7 +20,6 @@
 * [Visualizations R](#visualizations-r)
 * [Data](#data)
 * [Contributing](#contributing)
-* [License](#license)
 * [References](#references)
 
 
