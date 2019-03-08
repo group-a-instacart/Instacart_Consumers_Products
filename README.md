@@ -48,7 +48,8 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Problem Statement: 
+In the effort to explore, define, and understand the favorable grocery consumer, the research project question asks: what behavioral independent variables (day an order is placed, time of day an order is placed, and what items are ordered) best predict grocery consumer?
 
 ![instacart_what_is](https://user-images.githubusercontent.com/39780478/54021646-7ac83200-4145-11e9-87f3-853a522115d0.JPG)
 
