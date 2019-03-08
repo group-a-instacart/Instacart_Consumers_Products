@@ -49,6 +49,10 @@ The “prior” orders were connected to orders dataset. Products id in “prior
 ![products](https://user-images.githubusercontent.com/39780478/54023231-46ef0b80-4149-11e9-9c7a-32777deb0b96.JPG)
 This chart shows that cleaning products including cleaning products for home and body are the main categories of a non-food line. The second big category which can be found in list is body care with products for specific needs of women and men. Third big category which can be composed from Aisle variable is child care. 
 
+![boxplot](https://user-images.githubusercontent.com/39780478/54023429-caa8f800-4149-11e9-94b0-b89494987d2f.JPG)
+This chart sorted by Average Cart Order. It can be seen that first what people ordered in Cart is spirits but from other point of view the spirits are 3-rd (median) cart in order. This may means that people who buy spirits buy a limited list of goods. Same with facial care. This information could be used by service to place the categories in right list on screen of customers in relation to frequency of orders first of course. 
+
+
 
 
 ### Installation
