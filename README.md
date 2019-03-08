@@ -108,14 +108,20 @@ Team A: Data Visualization
 
 <!-- ACKNOWLEDGEMENTS -->
 ## References
-Anesbury, Z., Nenycz-Thiel, M., Dawes, J., & Kennedy, R. (2016). How do shoppers behave online? An observational study of online grocery shopping. Journal of Consumer Behaviour, 15(3), 261-270.                     doi:10.1002/cb.1566
-Browne, M. (2018, June 26). Grocery shopping has a hold on consumers, study finds. Retrieved from                 https://www.supermarketnews.com/issues-trends/grocery-shopping-has-hold-consumers-study-         finds Instacart. (2017, December 1).
-Fry, B. (2018, May 1). Visualizing Data. Retrieved from             https://www.oreilly.com/library/view/visualizing-data/9780596514556/ch01.html
-Harris, P., Riley, F. D., Riley, D., & Hand, C. (2017). Online and store patronage: A typology of grocery shoppers. International Journal of Retail & Distribution Management, 45(4), 419-445                        . doi:10.1108/ijrdm-06-2016-0103
-Instacart. (2017, December 1). Instacart Help Center - What can we do for you? Retrieved from     https://www.instacart.com/help/section/200758544
-Instacart. (2017). [The Instacart Online Grocery Shopping Dataset 2017]. Published raw data.Accessed from https://www.instacart.com/datasets/grocery-shopping-2017Pan, S., Giannikas, V., Han, Y., Grover-Silva, E., & Qiao, B. (2017). Using customer-related data to enhance e-grocery home delivery. Industrial Management & Data Systems, 117(9), 1917-1933.       doi:10.1108/imds-10-2016-0432
-Stanley, J. (2016, February 17). Data Science at Instacart – tech-at-instacart. Retrieved from                                     https://tech.instacart.com/data-science-at-instacart-dabbd2d3f279
-Stanley, J. (2017, May 2). The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions. Retrieved from https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
+* Anesbury, Z., Nenycz-Thiel, M., Dawes, J., & Kennedy, R. (2016). How do shoppers behave online? An observational study of online grocery shopping. Journal of Consumer Behaviour, 15(3), 261-270. doi:10.1002/cb.1566
+
+* Browne, M. (2018, June 26). Grocery shopping has a hold on consumers, study finds. Retrieved from                 https://www.supermarketnews.com/issues-trends/grocery-shopping-has-hold-consumers-study-finds Instacart. (2017, December 1).
+
+* Fry, B. (2018, May 1). Visualizing Data. Retrieved from https://www.oreilly.com/library/view/visualizing-data/9780596514556/ch01.html
+
+* Harris, P., Riley, F. D., Riley, D., & Hand, C. (2017). Online and store patronage: A typology of grocery shoppers. International Journal of Retail & Distribution Management, 45(4), 419-445. doi:10.1108/ijrdm-06-2016-0103
+
+* Instacart. (2017, December 1). Instacart Help Center - What can we do for you? Retrieved from https://www.instacart.com/help/section/200758544
+* Instacart. (2017). [The Instacart Online Grocery Shopping Dataset 2017]. Published raw data.Accessed from https://www.instacart.com/datasets/grocery-shopping-2017Pan, S., Giannikas, V., Han, Y., Grover-Silva, E., & Qiao, B. (2017). Using customer-related data to enhance e-grocery home delivery. Industrial Management & Data Systems, 117(9), 1917-1933.doi:10.1108/imds-10-2016-0432
+
+* Stanley, J. (2016, February 17). Data Science at Instacart – tech-at-instacart. Retrieved from                                     https://tech.instacart.com/data-science-at-instacart-dabbd2d3f279
+
+* Stanley, J. (2017, May 2). The Instacart Online Grocery Shopping Dataset 2017 Data Descriptions. Retrieved from https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
 
 
 
